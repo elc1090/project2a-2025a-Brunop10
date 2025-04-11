@@ -1,6 +1,6 @@
 # Projeto2a: GitHub API e DOM Manipulation 
 
-![Screenshot do projeto](images/printscreen.png "Screenshot do projeto").
+![Screenshot do projeto](github-api-tutorial-main/images/printscreen.png "Screenshot do projeto").
 
 
 #### Deploy
@@ -15,7 +15,6 @@ Bruno Perussatto
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VS Code
 - GitHub Copilot
 - Chat GPT
